@@ -10,9 +10,7 @@ public class App
         System.out.println(lista.size());
         if(lista.addIndex(3,3)) System.out.println(lista.toString());
 
-        lista.remove(1);
-        System.out.println(lista.size());
-        System.out.println(lista.toString());
+        System.out.println(lista.getElement(2));
 
 
     }
