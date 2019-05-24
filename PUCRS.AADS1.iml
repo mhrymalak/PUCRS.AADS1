@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Listas/Encadeado/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Trabalho 2/E2/crs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Trabalho 2/E2/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Listas/Encadeado/out" />
     </content>
