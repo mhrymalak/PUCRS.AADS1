@@ -30,7 +30,7 @@ public class BinaryTree
 
     public boolean isEmpty() { return root == null; }
 
-    public int size() { return count; }
+    public   int   size()    { return count; }
 
     public boolean hasLeft(Integer father)
     {   if(father != null) return false;
@@ -65,7 +65,23 @@ public class BinaryTree
         count++;
         return true;
     }
+    public boolean isExternal(int element)
+    {   Node n = searchNodeRef(element, root);
+        if (n != null)
+        {   if (n.left == null && n.right == null)
+                return true;
+        }
+        return false;
+    }
 
+    public boolean isInternal(int element)
+    {   Node n = searchNodeRef(element, root);
+        if (n != null)
+        {   if (n.left != null || n.right != null)
+                return true;
+        }
+        return false;
+    }
     private Node searchNodeRef(Integer element, Node target)
     {  Node aux = null;
        if(target != null || element != null)
