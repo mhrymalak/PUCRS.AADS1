@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
@@ -5,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Trabalho 2/E2/crs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Trabalho 2/E2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Trabalho 2/Hanói/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Listas/Árvore/Binária/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Listas/Árvore/Pesquisa/Binária/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/PUCRS.AADS1/Listas/Encadeado/out" />
     </content>
     <orderEntry type="inheritedJdk" />
